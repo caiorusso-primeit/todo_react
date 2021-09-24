@@ -6,6 +6,8 @@ metadata:
   tags:
     - react
     - data
+  annotations:
+    github.com/project-slug: caiorusso-primeit/todo-react
   links:
     - url: https://example.com/user
       title: Examples Users
